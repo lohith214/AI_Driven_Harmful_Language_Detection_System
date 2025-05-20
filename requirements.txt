@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+requests
+pydantic
+langdetect
+googletrans==4.0.0-rc1
+emoji
+unidecode
+discord.py
+asyncio
+logging
+nest_asyncio
+python-dotenv
+flask
+gunicorn
